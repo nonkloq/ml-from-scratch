@@ -13,7 +13,7 @@ The following notebooks are included:
 
 - [Linear Classification](linear%20classification.ipynb) ( SVM is not implemented from scratch)
 
-- [Multilayer Perceptron (Neural Network)](https://github.com/nonkloq/nn_dqn-from-scratch/blob/main/nn-mlp_from_scratch.ipynb)
+- [Multilayered Perceptron (Neural Network)](https://github.com/nonkloq/nn_dqn-from-scratch/blob/main/nn-mlp_from_scratch.ipynb)
 - [Multinomial & Gaussian Naive Bayes](Multinomial_and_GaussianNP.ipynb)
 
 - [K-Nearest Neighbors (KNN) for classification (iris dataset)](KNN_for_iris.ipynb) (clone from linear classification)
