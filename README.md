@@ -36,7 +36,7 @@ The following notebooks are included:
 
 ## Usage
 
-The code is provided in Jupyter Notebook format (.ipynb), which you can either view directly on GitHub or download and run on your local machine. Each notebook contains clear implementations of the algorithms, along with the relevant formulas and pseudo codes for the algorithm. For better understanding of the algorithms, check out the specific notebook of interest.
+The code is provided in Jupyter Notebook format (.ipynb), which you can either view directly on GitHub or download and run on your local machine. Each notebook contains clear implementations of the algorithms, along with the relevant formulas and pseudo code for that algorithm. For better understanding of the algorithms, check out the specific notebook of interest.
 
 ## References
 
