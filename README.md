@@ -1,7 +1,7 @@
 # Machine Learning Algorithms From Scratch
 
-This repository contains implementations of several machine learning algorithms from scratch. The implementations are done in Python and use only basic libraries like NumPy, Pandas, and Matplotlib...
-
+Implementations of several machine learning algorithms from scratch. The implementations are done in Python by only using basic libraries like NumPy, Pandas, and Matplotlib...
+ 
 ## Notebooks
 
 The following notebooks are included:
