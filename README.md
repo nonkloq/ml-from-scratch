@@ -23,7 +23,7 @@ The following notebooks are included:
 
 - [Unsupervised Learning](unsupervised%20learners.ipynb)  (contains K-means and EM for GMM)
 
-- [K-Means and Expectation-Maximization for Gaussian Mixture Model (Viz)](EM_for_GMM_and_Kmeans.ipynb) (clone from unsupervised learners, just check it out)
+- [K-Means and Expectation-Maximization for Gaussian Mixture Model (Viz)](EM_for_GMM_and_Kmeans.ipynb) (clone from unsupervised learners, just check this out)
 
 ### Inductive Learning
 
