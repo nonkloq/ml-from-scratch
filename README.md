@@ -31,7 +31,7 @@ The following notebooks are included:
 
 ### Ensemble Learning
 
-- [Decision Tree and Random Forest](trees&forest.ipynb)
+- [Decision Tree and Random Forest](trees_forest.ipynb)
 
 
 ## Usage
