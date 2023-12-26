@@ -42,7 +42,7 @@ The following notebooks are included:
 
 ### Unsupervised Learning
 
-- [Unsupervised Learning](unsupervised%20learners.ipynb)  (contains K-means, KNN with KD tree and EM for GMM)
+- [Unsupervised Learning](unsupervised%20learners.ipynb)
     - K-Means
     - K Nearest Neighbours
       - Brute Force KNN
