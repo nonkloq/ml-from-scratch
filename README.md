@@ -1,7 +1,7 @@
 # Machine Learning Algorithms From Scratch
 
-Implementations of several machine learning algorithms from scratch. The implementations are done in Python by only using basic libraries like NumPy, Pandas, and Matplotlib...
- 
+Implementations of several machine learning algorithms in python using numpy.
+
 ## Notebooks
 
 The following notebooks are included:
@@ -18,20 +18,22 @@ The following notebooks are included:
 
 - [K-Nearest Neighbors (KNN) for classification (iris dataset)](KNN_for_iris.ipynb) (clone from linear classification)
 
+#### Inductive Learning
+
+- [Candidate Elimination Algorithm (CEL)](CEL.ipynb)
+
+#### Ensemble Learning
+
+- [Decision Tree and Random Forest](trees_forest.ipynb)
+
 
 ### Unsupervised Learning
 
 - [Unsupervised Learning](unsupervised%20learners.ipynb)  (contains K-means, KNN with KD tree and EM for GMM)
 
-- [K-Means and Expectation-Maximization for Gaussian Mixture Model (Viz)](EM_for_GMM_and_Kmeans.ipynb) (clone from unsupervised learners, just check this out)
+- [K-Means and Expectation-Maximization for Gaussian Mixture Model (Viz)](EM_for_GMM_and_Kmeans.ipynb) (clone from unsupervised learners, Visual Comparison of K-Means vs. EM for GMM)
 
-### Inductive Learning
 
-- [Candidate Elimination Algorithm (CEL)](CEL.ipynb)
-
-### Ensemble Learning
-
-- [Decision Tree and Random Forest](trees_forest.ipynb)
 
 
 ## Usage
